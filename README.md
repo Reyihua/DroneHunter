@@ -64,8 +64,11 @@ python tracking_test_demo.py
 <img src="figures/res.png" width="85%">
 
 **Visualisation**
+
 We provide two visualization methods:
+
 I​OU (Intersection over Union) --> **Implemented in draw_iou.py**
+
 C​LE (Center Location Error) --> **Implemented in draw_cle.py**
 
 Below are visualization examples:
@@ -73,8 +76,10 @@ Below are visualization examples:
 <div align="center"> <img src="figures/000007.jpg" width="45%"> <img src="figures/000050.jpg" width="45%"> <br> <img src="figures/000133.jpg" width="45%"> <img src="figures/000262.jpg" width="45%"> </div>
 
 <div align="center"> <img src="figures/CLE.png" width="85%"> </div>
+
 Figure: Distribution of Center Location Error (CLE) across test sequences
 
 <div align="center"> <img src="figures/compare.png" width="85%"> </div>
+
 Figure: Statistical distribution of Intersection over Union (IOU) across test sequences
 
