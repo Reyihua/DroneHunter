@@ -77,9 +77,9 @@ Below are visualization examples:
 
 <div align="center"> <img src="figures/CLE.png" width="95%"> </div>
 
-Figure: Distribution of Center Location Error (CLE) across test sequences
+Figure1: Distribution of Center Location Error (CLE) across test sequences
 
 <div align="center"> <img src="figures/compare.png" width="95%"> </div>
 
-Figure: Statistical distribution of Intersection over Union (IOU) across test sequences
+Figure2: Statistical distribution of Intersection over Union (IOU) across test sequences
 
