@@ -57,11 +57,11 @@ python tracking_test_demo.py
 ```
 **Framework**
 
-<img src="figures/framework.png" width="85%">
+<div align="center"> <img src="figures/framework.png" width="95%"> </div>
 
 **Results**
 
-<img src="figures/res.png" width="85%">
+<div align="center"> <img src="figures/res.png" width="95%"> </div>
 
 **Visualisation**
 
@@ -75,11 +75,11 @@ Below are visualization examples:
 
 <div align="center"> <img src="figures/000007.jpg" width="45%"> <img src="figures/000050.jpg" width="45%"> <br> <img src="figures/000133.jpg" width="45%"> <img src="figures/000262.jpg" width="45%"> </div>
 
-<div align="center"> <img src="figures/CLE.png" width="85%"> </div>
+<div align="center"> <img src="figures/CLE.png" width="95%"> </div>
 
 Figure: Distribution of Center Location Error (CLE) across test sequences
 
-<div align="center"> <img src="figures/compare.png" width="85%"> </div>
+<div align="center"> <img src="figures/compare.png" width="95%"> </div>
 
 Figure: Statistical distribution of Intersection over Union (IOU) across test sequences
 
