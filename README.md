@@ -59,6 +59,8 @@ python tracking_test_demo.py
 
 <div align="center"> <img src="figures/framework.png" width="95%"> </div>
 
+Figure1: Overview of Drone Hunter, which consists of Vmamba backbone, Fine Track Attention Pyramid, Scale-aware Routing Enhancement Module and RCNN detection header. First, the features of the template branch and the search branch are obtained through a Siamese feature extraction network. Subsequently, the features of the two branches are fed into FTAP separately to decouple the template information from the high semantic complexity background species. Finally, SREM is utilized to enhance the candidate information at each scale in the previous step, which in turn helps to mine the target UAV information in a bottom-up manner.
+
 **Results**
 
 <div align="center"> <img src="figures/res.png" width="95%"> </div>
@@ -77,9 +79,9 @@ Below are visualization examples:
 
 <div align="center"> <img src="figures/CLE.png" width="95%"> </div>
 
-Figure1: Distribution of Center Location Error (CLE) across test sequences
+Figure2: Distribution of Center Location Error (CLE) across test sequences
 
 <div align="center"> <img src="figures/compare.png" width="95%"> </div>
 
-Figure2: Statistical distribution of Intersection over Union (IOU) across test sequences
+Figure3: Statistical distribution of Intersection over Union (IOU) across test sequences
 
